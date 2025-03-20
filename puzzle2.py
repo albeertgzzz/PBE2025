@@ -1,7 +1,5 @@
 import gi
-import subprocess
 from threading import Thread
-from time import sleep
 from puzzle1 import Rfid  # Importa la classe Rfid del puzzle 1
 
 gi.require_version("Gtk", "3.0")
