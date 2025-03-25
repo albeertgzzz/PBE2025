@@ -1,0 +1,25 @@
+.nfc-label { // Configuracio del fons d'espera de lectura
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+.nfc-label-green { // Canvia el color de fons al llegir
+    background-color: green;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+.nfc-button { // Estableix l'estil del botó per netejar
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #555555;
+    color: white;
+    border: none;
+}
